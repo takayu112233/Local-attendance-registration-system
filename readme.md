@@ -21,20 +21,19 @@ Felicaリーダを使用した出席登録システムです。
 
 # ソフトウェア使用方法
 ## スタート画面
-<img width="400" src="./readme_img/p1.PNG">
+<img width="400" src="./Readme_img/p1.PNG">
 
 ## 確認画面
-<img width="400" src="./readme_img/p2.PNG">
+<img width="400" src="./Readme_img/p2.PNG">
 
 ## 読取画面
-<img width="400" src="./readme_img/p3.PNG">
+<img width="400" src="./Readme_img/p3.PNG">
 
 ## 設定・履歴表示
-<img width="400" src="./readme_img/p4.PNG">
+<img width="400" src="./Readme_img/p4.PNG">
 
 ## 出力画面
-<img width="400" src="./readme_img/p5.PNG">
+<img width="400" src="./Readme_img/p5.PNG">
 
 ## 出力
-<img width="400" src="./readme_img/p6.PNG">
-
+<img width="400" src="./Readme_img/p6.PNG">
